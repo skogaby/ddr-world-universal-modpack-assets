@@ -1,0 +1,2 @@
+# Model files are hashed into pack content ids: never convert line endings.
+* -text
